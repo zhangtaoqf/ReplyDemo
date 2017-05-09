@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android test\QZoneComment-master\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdfab75375b735b144145a2e85a50e77534daed0">
+        <dex dex="D:\android test\QZoneComment-master\app\build\intermediates\pre-dexed\debug\zxing_893bb4769cc69f5070a0cfe5a0b0033dabdf32a9.jar" />
+    </item>
+
+</items>
